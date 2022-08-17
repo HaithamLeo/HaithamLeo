@@ -20,5 +20,5 @@
 <!-- links -->
 
 [rihal-om]: https://github.com/rihal-om "rihal-om° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "HaithamLeo/issues"
+[issues page]: https://github.com/HaithamLeo/HaithamLeo/issues "HaithamLeo/issues"
 [linkedin]: https://www.linkedin.com/in/haithamleo "Haitham Leo LinkedIn"
