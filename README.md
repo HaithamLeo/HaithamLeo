@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=haithamleo" alt="page views" />
   </a>
   <a href="https://github.com/HaithamLeo?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/HaithamLeo?color=green&logo=github">
   </a>
 </p>
 
