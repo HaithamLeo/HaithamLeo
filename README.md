@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="left" id="haithamleo-title">:wave: Hello there! I'm Haitham</h1>
 
-<!--
-**HaithamLeo/HaithamLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/HaithamLeo/HaithamLeo">
+    <img src="https://komarev.com/ghpvc/?username=haithamleo" alt="page views" />
+  </a>
+  <a href="https://github.com/HaithamLeo?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+- :office: &nbsp;I'm currently working at **[rihal-om]**
+- :seedling: &nbsp;I’m currently learning **Go**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
+
+<!-- links -->
+
+[rihal-om]: https://github.com/rihal-om "rihal-om° Github Home"
+[issues page]: https://github.com/MacroPower/MacroPower/issues "HaithamLeo/issues"
+[linkedin]: https://www.linkedin.com/in/haithamleo "Haitham Leo LinkedIn"
